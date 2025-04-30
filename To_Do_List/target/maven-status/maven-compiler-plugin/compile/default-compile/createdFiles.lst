@@ -1,0 +1,8 @@
+com\book\pojos\Category.class
+com\book\pojos\Book.class
+com\book\service\BookServiceInterface.class
+com\book\controller\TestController.class
+com\book\dao\BookDao.class
+com\book\controller\BookController.class
+com\book\DemoApplication.class
+com\book\service\BookServiceImpl.class
